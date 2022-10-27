@@ -2,10 +2,13 @@
   <library name="Gradle: com.android.support:print:28.0.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de9fdf308faa7ee70d55ec5a68f2c192/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-19/caches/transforms-2/files-2.1/47ab1ae08b17f4023a956986111200de/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de9fdf308faa7ee70d55ec5a68f2c192/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de9fdf308faa7ee70d55ec5a68f2c192/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-19/caches/transforms-2/files-2.1/47ab1ae08b17f4023a956986111200de/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-19/caches/transforms-2/files-2.1/47ab1ae08b17f4023a956986111200de/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
